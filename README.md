@@ -1,4 +1,4 @@
-#  Fake News📰 Classification WebApp using Python
+#  Fake News📰 Classification  using Python
 
 
 
